@@ -1,0 +1,21 @@
+# Ignored Unity directories
+/Library/
+/Logs/
+/Temp/
+/Obj/
+/Build/
+/DerivedData/
+/Library/
+/Packages/
+/UserSettings/
+
+# Unity files
+*.meta
+*.unityproj
+*.vsconfig
+*.csproj
+*.sln
+
+# Other temporary files
+*.bak
+*.tmp
